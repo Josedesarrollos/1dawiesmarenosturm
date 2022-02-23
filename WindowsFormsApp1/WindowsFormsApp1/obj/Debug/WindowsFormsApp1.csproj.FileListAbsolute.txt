@@ -8,3 +8,13 @@ C:\Users\Toshiba\source\repos\Josedesarrollos\1dawiesmarenosturm\WindowsFormsApp
 C:\Users\Toshiba\source\repos\Josedesarrollos\1dawiesmarenosturm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\Toshiba\source\repos\Josedesarrollos\1dawiesmarenosturm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\Toshiba\source\repos\Josedesarrollos\1dawiesmarenosturm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Jose\Source\Repos\Josedesarrollos\1dawiesmarenosturm\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Jose\Source\Repos\Josedesarrollos\1dawiesmarenosturm\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Jose\Source\Repos\Josedesarrollos\1dawiesmarenosturm\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Jose\Source\Repos\Josedesarrollos\1dawiesmarenosturm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Jose\Source\Repos\Josedesarrollos\1dawiesmarenosturm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Jose\Source\Repos\Josedesarrollos\1dawiesmarenosturm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Jose\Source\Repos\Josedesarrollos\1dawiesmarenosturm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Jose\Source\Repos\Josedesarrollos\1dawiesmarenosturm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Source\Repos\Josedesarrollos\1dawiesmarenosturm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Jose\Source\Repos\Josedesarrollos\1dawiesmarenosturm\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
